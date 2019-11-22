@@ -28,7 +28,7 @@ Provides links to custom websites developed based on client-provided information
 - Group 03-02
 - Group 03-03
 - Group 03-04
-- Group 03-05
+- [Group 03-05](https://chetankudaravalli16.github.io/Help-app-05/)
 - Group 03-06
 - Group 03-07
 - Group 03-08
