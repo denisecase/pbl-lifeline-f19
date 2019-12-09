@@ -24,7 +24,7 @@ Provides links to custom websites developed based on client-provided information
 
 ## Section 4
 
-- Group 04-01 [Group 01](https://chinmayi98.github.io/help-app/) credits-Section 01 - Group 01
+- Group 04-01 [Group 01](https://chinmayi98.github.io/help-app/) credits-[Section 01 - Group 01](https://cweltonsmith.github.io/pbl-website/index.html)
 - Group 04-02 [Group 02](https://nikithakethireddy1996.github.io/help-app/)
 - [Group 04-03](https://prasu93.github.io/help-app/)
 - [Group 04-04](https://sravani537520.github.io/Help_app/)
